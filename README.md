@@ -13,9 +13,9 @@ Part I (by [Young Ahn](https://ccs-lab.github.io/team/young-ahn/))
 - Brief introduction to hBayesDM (Hierarchical Bayesian Modeling of Decision-Making Tasks)
 - What is computational modeling?
 - How to fit a computational model?
-- Maximum likelihood estimation (MLE) 
-- Bayesian analysis 
-- Hierarchical Bayesian analysis
+  - Maximum likelihood estimation (MLE) 
+  - Bayesian analysis 
+  - Hierarchical Bayesian analysis
 - Brief introduction to Bayesian data analysis
 - Tools for Bayesian data analysis
 - How to interpret results from Bayesian data analysis? 
