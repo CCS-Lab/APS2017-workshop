@@ -19,6 +19,7 @@ Part I (by [Young Ahn](https://ccs-lab.github.io/team/young-ahn/))
 - Brief introduction to Bayesian data analysis
 - Tools for Bayesian data analysis
 - How to interpret results from Bayesian data analysis? 
+<br><br>
 
 Part II (by [Nate Haines](https://ccs-lab.github.io/team/nate-haines/))
 - Hands-on tutorial on hBayesDM (data preparatation, model fitting, model comparisons, etc.)
