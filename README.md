@@ -13,13 +13,13 @@ The organizers (Young Ahn and Nate Haines at Ohio State University, https://ccs-
 **Outline of the workshop** (May 28th (Sun), 2017)
 
 Part I (by [Young Ahn](https://ccs-lab.github.io/team/young-ahn/)) (9:00am - 9:50am)
-- Brief introduction to hBayesDM (**h**ierarchical **Bayes**ian modeling of **D**ecision-**M**aking tasks)
 - What is computational modeling?
+- How/why do we lower the barrier to computational modeling?
+- Brief introduction to hBayesDM (**h**ierarchical **Bayes**ian modeling of **D**ecision-**M**aking tasks)
 - How to fit a computational model?
   - Maximum likelihood estimation (MLE) 
   - Bayesian analysis 
   - Hierarchical Bayesian analysis
-- Brief introduction to Bayesian data analysis
 - Tools for Bayesian data analysis
 - How to interpret results from Bayesian data analysis? 
 <br><br>
