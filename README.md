@@ -26,4 +26,8 @@ Part I (by [Young Ahn](https://ccs-lab.github.io/team/young-ahn/)) (9:00am - 9:5
 
 Part II (by [Nate Haines](https://ccs-lab.github.io/team/nate-haines/)) (10:00am - 10:50am)
 - Hands-on tutorial on hBayesDM (data preparatation, model fitting, model comparisons, etc.)
-- To be updated
+- Goals: 
+  - Learn to fit models in hBayesDM
+  - Understand how to diagnose convergence when using Bayesian methods
+  - Learn the differences between model comparison and parameter estimation
+  - Have fun :D
