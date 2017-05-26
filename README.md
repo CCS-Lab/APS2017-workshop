@@ -8,7 +8,7 @@ The organizers (Young Ahn and Nate Haines at Ohio State University, https://ccs-
 <br><br>
 
 ** **Please bring your own laptop with R and RStudio installed!**  ** 
-We also recommend that participants install the [hBayesDM](https://github.com/CCS-Lab/hBayesDM) package prior to the workshop. Please click [here](http://rstudio-pubs-static.s3.amazonaws.com/164729_63b74e0329ff4d39aac2cfd0d8b21b5b.html#how-to-install-hbayesdm) for the instructions.
+We also recommend that participants install the [hBayesDM](https://github.com/CCS-Lab/hBayesDM) package prior to the workshop. Please click [here](http://rstudio-pubs-static.s3.amazonaws.com/164729_63b74e0329ff4d39aac2cfd0d8b21b5b.html#how-to-install-hbayesdm) for the instructions. **Mac users**, [make sure Xcode is installed](https://github.com/stan-dev/rstan/wiki/RStan-Mac-OS-X-Prerequisite-Installation-Instructions#step2_3). Xcode is 4.5GB in size, so it might be too big to download at the workshop site.
 <br><br>
 
 **Outline of the workshop** (May 28th (Sun), 2017)
