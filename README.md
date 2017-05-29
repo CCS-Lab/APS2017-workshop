@@ -19,7 +19,7 @@ Part I (by [Young Ahn](https://ccs-lab.github.io/team/young-ahn/)) (9:00am - 9:5
 - Brief introduction to hBayesDM (**h**ierarchical **Bayes**ian modeling of **D**ecision-**M**aking tasks)
 - How to fit a computational model?
   - Maximum likelihood estimation (MLE) 
-  - Bayesian analysis 
+  - Bayesian analysis & MCMC sampling
   - Hierarchical Bayesian analysis
   - Tools for Bayesian data analysis
 - Things to know when performing MCMC sampling 
