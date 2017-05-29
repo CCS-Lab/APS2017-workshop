@@ -4,7 +4,7 @@
 http://www.psychologicalscience.org/conventions/annual/2017-workshops
 
 
-The organizers (Young Ahn and Nate Haines at Ohio State University, https://ccs-lab.github.io/) of the workshop will post the outline of the workshop and detailed instructions along with R codes for the workshop here. 
+The organizers (Young Ahn and Nate Haines at Ohio State University, https://ccs-lab.github.io/) of the workshop will post the outline of the workshop and detailed instructions along with R codes & slides for the workshop here. 
 <br><br>
 
 ** **Please bring your own laptop with latest R (at least 3.3.2) and RStudio installed!**  ** 
