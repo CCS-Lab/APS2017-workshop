@@ -1,9 +1,5 @@
 rm(list=ls())
 
-library(hBayesDM)
-library(dplyr)
-library(ggplot2)
-
 # Simulation parameters
 seed <- 8902438
 num_subjs  <- 10

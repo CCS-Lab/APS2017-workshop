@@ -17,4 +17,7 @@ plot(fit_gng_m4, "trace"); rhat(fit_gng_m4, 1.1)
 # Compare LOOIC values
 printFit(fit_gng_m1, fit_gng_m2, fit_gng_m3, fit_gng_m4)
 
-# Which model generated the data? 
+# Which model generated the data? (i.e. which has the lowest LOOIC?)
+
+# The data were generated from gng_m4! See the simulation code used here:
+# "/APS2017-workshop/R_Codes/simulation/simulate_gng_m4.R"
